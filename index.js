@@ -4,7 +4,7 @@
     let multiply = num1 * num2;
     
 }
-
+//random integer greater than zero
 {
     let random=Math.floor(Math.random() * 10);
 }
